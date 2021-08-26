@@ -1,7 +1,7 @@
 # how to use git ?
 
 
- ## the most useful Git commands
+ ## The most useful Git commands
 
         git init : convert a folder to a git repository (initialize)
 
